@@ -1,0 +1,15 @@
+@media (min-width: 576px) {
+  .image {
+    min-width: 15%;
+  }
+}
+
+@media (min-width: 768px) {
+  .image {
+    max-width: 20%;
+  }
+}
+
+body {
+  background-color: rgb(255, 218, 150) !important;
+}
